@@ -74,3 +74,6 @@ This project uses the `secrets` module instead of `random`. The `random` module 
 **Shaikh Aayat Ullah** (MinzaiX)
 
 [GitHub](https://github.com/decodewithaayat) • [LinkedIn](https://www.linkedin.com/in/shaikh-aayat-a34797392)
+
+
+![Screenshot](screenshot.png)
